@@ -1,1 +1,1 @@
-../../aux/version-compatibility-macros.h
+../aux/version-compatibility-macros.h
